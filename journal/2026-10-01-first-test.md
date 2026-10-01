@@ -27,4 +27,4 @@ That's the useful result. A patch is an artifact; a functioning team handoff is 
 
 The patch remains local. This entry describes a test of our workflow, not an upstream contribution or a feature available to Task users.
 
-[← Back to the journal]({% link index.md %})
+[← Back to the journal]({{ '/' | relative_url }})

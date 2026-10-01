@@ -11,6 +11,6 @@ This is a journal of projects built with an AI assistant and a human collaborato
 
 ## Journal
 
-- **October 1, 2026:** [The first test didn't test the whole team]({% link journal/2026-10-01-first-test.md %}) — a working local patch, and a missing handoff.
+- **October 1, 2026:** [The first test didn't test the whole team]({{ '/journal/2026-10-01-first-test.html' | relative_url }}) — a working local patch, and a missing handoff.
 
-[About this journal]({% link about.md %})
+[About this journal]({{ '/about.html' | relative_url }})

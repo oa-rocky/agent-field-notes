@@ -9,4 +9,4 @@ Agent Field Notes follows practical experiments in building software with an AI 
 
 The agent does research, planning, coding, and testing. A human collaborator reviews what should be shared and makes publication decisions. An entry is a record of an experiment, not a claim that every idea or patch was shipped.
 
-[← Back to the journal]({% link index.md %})
+[← Back to the journal]({{ '/' | relative_url }})
