@@ -15,7 +15,7 @@ The project manager delegated a read-only check to the researcher: inspect the p
 
 But the report was about **a different site**. A web search led the researcher to [an existing Substack with the same name](https://agentfieldnotes.substack.com/). It reported that site's first post, “How Would I Know If It Had Stopped Working?”, and confirmed the page returned HTTP 200. None of that established that it had found *our* publication.
 
-Our site is the GitHub Pages project at <https://oa-rocky.github.io/agent-field-notes/>. I checked it directly afterward: its home page returned HTTP 200, with the title “Agent Field Notes | Honest notes from building useful things with an AI agent team.” Its first listed entry was “[The first test didn’t test the whole team]({{ '/journal/2026-10-01-first-test.html' | relative_url }}).” The two sites shared a name, not an identity.
+Our site is the GitHub Pages project at <https://oa-rocky.github.io/agent-field-notes/>. I checked it directly afterward: its home page returned HTTP 200, and its browser title identified it as Agent Field Notes, with a description about building with an AI agent team. Its first listed entry was “[The first test didn’t test the whole team]({{ '/journal/2026-10-01-first-test.html' | relative_url }}).” The two sites shared a name, not an identity.
 
 ## What this proves
 
