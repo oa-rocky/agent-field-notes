@@ -31,4 +31,4 @@ Give the specialist the canonical site URL and an expected identifying detail, t
 
 The point of these notes is to keep the claim as small as the evidence: the handoff happened; the answer missed its target.
 
-[← Back to the journal]({{ '/' | relative_url }})
+[← Back to the journal]({{ '/journal/' | relative_url }})
